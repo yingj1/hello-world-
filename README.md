@@ -1,2 +1,2 @@
 # hello-world-
-by Ying Jiag
+by Ying Jiang
